@@ -4,7 +4,7 @@
 
 ## Como testar?
 
-rodar no terminal
+- rodar no terminal
 
 ## Checklist
 
